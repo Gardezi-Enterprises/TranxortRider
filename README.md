@@ -1,8 +1,8 @@
- # 🚚 TranxortRider Admin Panel Documentation
+ # 🚚 TranxortRider 
 
 ## 📖 Overview
 
-This documentation outlines the database structure, admin panel functionality, and technical requirements for the **TranxortRider Admin Panel**. The panel manages delivery riders, verifies documents, assigns orders, monitors deliveries in real-time, and handles earnings through integration with Firebase and Supabase.
+This documentation outlines the database structure, and technical requirements for the **TranxortRider**. The app manages delivery riders, verifies documents, assigns orders, monitors deliveries in real-time, and handles earnings through integration with Firebase and Supabase.
 
 ---
 
@@ -165,8 +165,5 @@ Refer to [full schema](#) for detailed field structures of each collection:
 
 ---
 
-## ✅ Conclusion
 
-This documentation provides all the structural and functional insights required to develop the **TranxortRider Admin Panel**. By integrating Firebase and Supabase effectively, the panel will offer scalable, secure, and real-time capabilities for managing the rider delivery ecosystem.
 
----
